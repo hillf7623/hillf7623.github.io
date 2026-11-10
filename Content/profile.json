@@ -24,7 +24,9 @@
   "EmploymentText": "Use this to add some narrative to your employment section",
   "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
   "SkillsText": "Use this to add some narrative to your skills section",
-  "Resume": "student-resume.pdf"  
+  "Certifications": "Certified SOLIDWORKS Associate",
+  "CertificationsText": "Let me edit this in a minute",
+  "Resume": "student-resume.pdf"
 },
 "Project1": {
     "Title": "Interesting Project 1",
