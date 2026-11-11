@@ -30,8 +30,8 @@
 },
 "Project1": {
     "Title": "Renton Weatherly Inn",
-    "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
+    "Desc": "The Weatherly Inn was a project that spanned across three years, where Jodi’s Interiors was tasked with manufacturing and installing draperies and cornice boards throughout the entirety of the 5-story retirement facility. The team for the project had a total of five workers, and most laborers had to multitask between the manufacturing and installations.<br><br>I was one of the multitasking laborers, although my role was primarily a manufacturer for the first two years of the project alongside two other employees. Every pair of draperies needed to be cut to a specific length, hemmed, steamed, fanfolded, and bagged carefully to avoid damage during transportation. My responsibility split between manufacturing and installing during the last year due to the upcoming deadline for the facility to have every residential window covered to gain their licensing from the state.<br><br>In total, we created and installed a total of 962 pairs of draperies, spread throughout each bedroom and common room within the building.",
+    "GitHubRepo": "",
     "MainImage": "Main.jpg",
     "DetailImages": ["Hallway.jpg","Room-1.jpg","Room-2.jpg"]
   },
