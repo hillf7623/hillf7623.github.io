@@ -36,11 +36,11 @@
     "DetailImages": ["Hallway.jpg","Room-1.jpg","Room-2.jpg"]
   },
   "Project2": {
-    "Title": "Interesting Project 2",
+    "Title": "Metals Studio Final Project",
     "Desc": "This is a description of Project Two.<br><br>It also has a GitHub repo and more details shown in screenshots.",
-    "GitHubRepo": "https://github.com",
-    "MainImage": "P2Main.png",
-    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+    "GitHubRepo": "",
+    "MainImage": "Full_Picture.jpg",
+    "DetailImages": ["Flower_alone.jpg","Flower_side_view.jpg","Fairy_side_view.jpg","Fairy_back_view.jpg"]
   },
   "Project3": {
     "Title": "",
