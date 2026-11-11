@@ -31,10 +31,6 @@ function updateHTML(configData) {
   document.querySelector("#expSkills>h2").innerHTML = "Skills";
   document.querySelector("#pfSkills").innerHTML = configData.Experience.Skills.toString();
   document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
-  
-  document.querySelector("#expCertifications>h2").innerHTML = "Certifications";
-  document.querySelector("#pfCertifications").innerHTML = configData.Experience.Certifications;
-  document.querySelector("#pfCertificationsText").innerHTML = configData.Experience.CertificationsText;
 
   // document.querySelector("#pfResume").href = "./Content/".concat(configData.Experience.Resume);
   // document.querySelector("#pfResume").href = "./Content/resume.pdf";
