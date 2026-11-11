@@ -32,8 +32,8 @@
     "Title": "Renton Weatherly Inn",
     "Desc": "This is a description of Project One.<br><br>It has a GitHub repo and more details shown in screenshots.",
     "GitHubRepo": "https://github.com",
-    "MainImage": "P1Main.png",
-    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+    "MainImage": "Main.jpg",
+    "DetailImages": ["Hallway.jpg","Room-1.jpg","Room-2.jpg"]
   },
   "Project2": {
     "Title": "Interesting Project 2",
